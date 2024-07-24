@@ -1,0 +1,225 @@
+body{
+    background-color:white;
+    background-image: url(download.jpg);
+    background-size: cover;
+}
+.header{
+    background-color:white;
+    height: 40px;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+}
+a{
+    text-decoration:none;
+    margin-left: 40px;
+}
+#name{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 10px;
+}
+#main{
+    display: flex;
+}
+#h{
+    display: flex;
+}
+.sub1{
+    width: 400px;
+    height:300px;
+    margin-left: 180px;
+    margin-top:180px;
+}
+.sub2{
+    width: 300px;
+    height: 300px;
+    margin-top:120px;
+    margin-left:200px;
+}
+#hello{
+    background-color:rgba(44, 222, 166, 0.543);
+    text-align: center;
+    border-radius:40px 40px;
+    width:100px;
+    height:18px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#name1{
+    font-size: xx-large;
+}
+#profile{
+    border-radius: 50%;
+}
+#a1{
+    text-align: center;
+    color: white;
+    text-decoration-line: underline;
+    text-decoration-style: solid ;
+    text-decoration-color: orange;
+}
+#aboutprofile{
+    border-radius: 50%;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+#about{
+    display: flex;
+}
+#a2{
+    margin-left: 250px;
+    margin-top: 40x;
+}
+#a3{
+    margin-left:250px;
+}
+#a4{
+    width:60px;
+    height:20px;
+    color: white;
+    text-align: center;
+    border-color: orange;
+    border-style: double;
+    border-radius: 90px;
+    margin-left: 250px;
+}
+#a5{
+    width:240px;
+    height:20px;
+    color: white;
+    text-align: center;
+    border-color: orange;
+    border-style: double;
+    border-radius: 90px;
+    margin-left: 250px;
+}
+#a6{
+    width:250px;
+    height:20px;
+    color: white;
+    text-align: center;
+    border-color: orange;
+    border-style: double;
+    border-radius: 90px;
+    margin-left: 250px;
+}
+.fa-handshake{
+    font-size: 70px;
+    margin-left:250px;
+}
+#s1{
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+    text-decoration-color: orange;
+}
+#s2{
+    display: flex;
+    margin-top: 100px;
+}
+#s3,#s4,#s5{
+    font-size: 100px;
+    color: white;
+    margin-left: 260px;
+}
+#s9{
+    display: flex;
+    color: white;
+}
+#s6{
+    margin-left:270px;
+}
+#s7{
+    margin-left:280px;
+}
+#s8{
+    margin-left:300px;
+}
+#e1{
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+    text-decoration-color: orange;
+}
+#e2{
+    width:410px;
+    height:100px;
+    border-color: goldenrod;
+    border-style: double;
+    margin-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 100px;
+}
+#e3{
+    text-align: center;
+    color: white;
+}
+#e4{
+    color: gold;
+    text-align: center;
+}
+#e5{
+    margin-left: 230px;
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#edu{
+    display:flex;
+}
+#e6{
+    margin-left: 300px;
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#e7{
+    width:410px;
+    height:100px;
+    border-color: goldenrod;
+    border-style: double;
+    margin-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 230px;
+}
+#p1{
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+    text-decoration-color: orange;
+}
+#p2,#p3{
+    margin-left: 150px;
+}
+#r1{
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+    text-decoration-color: orange;
+}
+#r2{
+    margin-left: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: beige;
+    text-align: center;
+    text-decoration: none;
+    margin-left: 530px;
+}
+#c1{
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+    text-decoration-color: orange;
+}
+#c2{
+    text-align: center;
+    color: blue;
+}
+#c5{
+    color: white;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+#c4{
+    font-size: 50px;
+    margin-left: 100px;
+    margin-top: 50px;
+    color: white;
+}
